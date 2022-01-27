@@ -12,18 +12,18 @@
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/Ottapettavanvlk/SHAMWOL/fork)
-5. Now https://heroku.com/deploy?template=https://github.com/Ottapettavanvlk/SHAMWOL copy this url and change Ottapettavanvlk with your github username and click GO<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Ottapettavan/SHAMWOL copy this url and change Ottapettavanvlk with your github username and click GO<br>
    <br>
    <a href="https://youtu.be/G4KknEgKWoA"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
    <a href="https://chat.whatsapp.com/KA9zgz1gvN03LmwtQTJJZR"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <br>
-   <a href="https://github.com/Ottapettavanvlk/SHAMWOL/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
+   <a href="https://github.com/Ottapettavan/SHAMWOL/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/Ottapettavanvlk/SHAMWOL)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/badge/github/Ottapettavan/SHAMWOL)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ottapettavanvlk/SHAMWOL) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ottapettavan/SHAMWOL) -->
 
 | Active | Group commands |
 | :----: | :------------- |
